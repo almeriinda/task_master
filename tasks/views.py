@@ -1,6 +1,6 @@
-from django.shortcuts import render
+from django.views.generic import ListView
 from .models import Todo
 
-def todo_list(request):
-    tasks = Todo.objects.all()
-    return render(request, "tasks/todo_list.html", {"tasks": tasks})
+
+class TodoListView(ListView):
+    model = Todo
