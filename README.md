@@ -13,7 +13,7 @@ Este é um projeto simples de gerenciamento de tarefas em Python, que permite cr
 
 - **Backend:** Python (Django)
 - **Frontend:** HTML, Bootstrap
-- **Banco de Dados:** SQLite ou PostgreSQL
+- **Banco de Dados:** SQLite 
 - **Deploy:** Netlify
 
 ## Pré-requisitos
