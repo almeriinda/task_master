@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas
 
-Este é um projeto simples de gerenciamento de tarefas em Python, que permite criar, editar e excluir tarefas. O projeto é implementado utilizando um framework web e o deploy é feito no Netlify.
+Este é um projeto simples de gerenciamento de tarefas em Python, que permite criar, editar e excluir tarefas. O projeto é implementado utilizando Django e o deploy é feito no Netlify.
 
 ## Funcionalidades
 
